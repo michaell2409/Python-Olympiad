@@ -21,8 +21,8 @@ This repository is my journey from zero to the **Informatics Olympiad of Las Pal
 |------|-------|--------|
 | 1 | Variables, operations, input and output | ✅ Done |
 | 1 | Conditions (`if`, `elif`, `else`) | ✅ Done |
-| 1 | Loops (`for`, `while`) | ⏳ Next |
-| 2–3 | Lists, strings and functions | 🔜 |
+| 1 | Loops (`for`, `while`) | ✅ Done |
+| 2–3 | Lists, strings and functions | ⏳ Next |
 | 4–9 | Olympiad-style problems | 🔜 |
 | 10–12 | Full mock contests: 6 problems in 2 hours | 🔜 |
 
