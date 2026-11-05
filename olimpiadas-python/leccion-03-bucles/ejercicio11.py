@@ -1,6 +1,7 @@
 # Ejercicio 11: Muchas líneas
 # Lee varias líneas, cada una con un número, e imprime PAR o IMPAR para cada una.
 # Ejemplo: entrada 4, 7, 10 (una por línea) → salida PAR, IMPAR, PAR
+# Lección 3: bucles (for, while, sys.stdin)
 
 import sys
 for linea in sys.stdin:
