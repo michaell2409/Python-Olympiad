@@ -1,6 +1,7 @@
 # Ejercicio 22: Contar vocales
 # Lee una palabra en minúsculas e imprime cuántas vocales tiene.
 # Ejemplo: olimpiada → 5 | python → 1
+# Lección 4: listas y textos
 
 palabra = str(input())
 u = (len(palabra))
