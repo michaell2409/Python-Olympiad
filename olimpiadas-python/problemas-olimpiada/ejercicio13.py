@@ -3,6 +3,7 @@
 # y la secuencia completa (sin el número inicial).
 # Ejemplo: entrada 6 → salida 8 3 10 5 16 8 4 2 1 | entrada 1 → salida 0
 # Primer problema de olimpiada real resuelto al 100 %.
+# Problema de olimpiada
 
 import sys
 for linea in sys.stdin:
