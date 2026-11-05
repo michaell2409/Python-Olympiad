@@ -1,7 +1,8 @@
-# Repaso 2: Suma de cifras
+# Ejercicio 15: Suma de cifras (repaso 2)
 # Lee un número e imprime la suma de sus cifras.
 # Ejemplo: 2026 → 10 | 999 → 27
 # Idea: % 10 me da la última cifra y // 10 la quita.
+# Lección 3: bucles (for, while, sys.stdin)
 
 n = int(input())
 s  = 0
