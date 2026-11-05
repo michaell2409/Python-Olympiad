@@ -1,8 +1,9 @@
-# Repaso 5: ¿Es primo?
+# Ejercicio 18: ¿Es primo? (repaso 5)
 # Para cada línea con un número mayor que 1, imprime PRIMO o NO PRIMO.
 # Ejemplo: 7 → PRIMO | 12 → NO PRIMO | 49 → NO PRIMO
 # Idea: cuento los divisores entre 2 y N-1. Si no hay ninguno, es primo.
 # Mejora pendiente: basta con buscar divisores hasta la raíz cuadrada de N.
+# Lección 3: bucles (for, while, sys.stdin)
 
 import sys 
 for linea in sys.stdin: 
