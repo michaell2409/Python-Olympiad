@@ -6,6 +6,7 @@
 # así que solo me falta sumarle del 1 al n-1.
 # range(1, n) se calcula una sola vez al principio,
 # por eso no cambia aunque n cambie dentro del bucle.
+# Lección 3: bucles (for, while, sys.stdin)
 
 n = int(input())
 for i in range(1, n):
