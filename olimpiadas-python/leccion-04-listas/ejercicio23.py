@@ -3,6 +3,7 @@
 # la secuencia en una lista en vez de en un texto.
 # Ejemplo: 6 → 8 3 10 5 16 8 4 2 1 | 1 → 0
 # Idea: doy la vuelta a la lista para añadir el contador al principio.
+# Lección 4: listas y textos
 
 import sys
 for linea in sys.stdin:
