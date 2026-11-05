@@ -1,7 +1,8 @@
-# Repaso 1: Contar dígitos
+# Ejercicio 14: Contar dígitos (repaso 1)
 # Lee un número entero positivo e imprime cuántas cifras tiene.
 # Ejemplo: 7 → 1 | 2026 → 4 | 100000 → 6
 # Idea: quito cifras con // 10 hasta que no queda ninguna y cuento cuántas he quitado.
+# Lección 3: bucles (for, while, sys.stdin)
 
 n = int(input())
 contador = 0
