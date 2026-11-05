@@ -1,7 +1,8 @@
-# Repaso 4: Múltiplos de 3
+# Ejercicio 17: Múltiplos de 3 (repaso 4)
 # Para cada línea con un número N, imprime cuántos números entre 1 y N son múltiplos de 3.
 # Ejemplo: 10 → 3 | 3 → 1 | 2 → 0
 # Nota: también se podría hacer sin bucle con n // 3.
+# Lección 3: bucles (for, while, sys.stdin)
 
 import sys 
 for linea in sys.stdin:
