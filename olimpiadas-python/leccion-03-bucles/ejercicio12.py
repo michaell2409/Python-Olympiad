@@ -2,6 +2,7 @@
 # Lee un número N. Mientras no sea 1: si es par, lo divide entre 2;
 # si es impar, lo multiplica por 3 y le suma 1. Imprime cuántos pasos hace.
 # Ejemplo: entrada 6 → salida 8 | entrada 27 → salida 111 | entrada 1 → salida 0
+# Lección 3: bucles (for, while, sys.stdin)
 
 n = int(input())
 suma = 0
