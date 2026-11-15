@@ -23,8 +23,8 @@ This repository is my journey from zero to the **Informatics Olympiad of Las Pal
 | 1 | Conditions (`if`, `elif`, `else`) | ✅ Done |
 | 1 | Loops (`for`, `while`) | ✅ Done |
 | 2–3 | Lists, strings and functions | ✅ Done |
-| 4–9 | Olympiad-style problems | ⏳ Next |
-| 10–12 | Full mock contests: 6 problems in 2 hours | 🔜 |
+| 4–9 | Olympiad-style problems | ✅ Done |
+| 10–12 | Full mock contests: 6 problems in 2 hours | ⏳ Next |
 
 ## 📁 Structure
 
