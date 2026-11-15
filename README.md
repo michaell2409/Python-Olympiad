@@ -47,7 +47,7 @@ olimpiada-python/
 - [Olimpiada Informática Española](https://olimpiada-informatica.org/)
 - [Acepta el reto](https://aceptaelreto.com/) — online judge in Spanish
 - [Past problems from the Tenerife olympiad](https://github.com/oliminforcanarias/Soluciones-OITF)
-
+- [Past problems from the Palmas olympiad](https://github.com/OlimpiadaILP)
 ---
 
 <p align="center"><i>Started from zero. Not stopping here.</i> 🚀</p>
